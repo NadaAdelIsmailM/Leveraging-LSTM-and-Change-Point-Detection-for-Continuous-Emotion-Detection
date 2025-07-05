@@ -39,6 +39,28 @@ Our model achieved impressive results across different datasets:
 - Robust LSTM classification
 - Support for multiple datasets
 
+## 📄 Citation
+
+If you use this work in your research or find it helpful, please cite our paper:
+
+**IEEE Xplore Link**: [Speech Emotion Recognition: Leveraging LSTM and Change Point Detection for Continuous Emotion Detection](https://ieeexplore.ieee.org/document/11018570)  
+Published at the *2025 42nd National Radio Science Conference (NRSC)*
+
+**BibTeX:**
+```bibtex
+@INPROCEEDINGS{11018570,
+  author={Yousef, Sama A. and Ismail, Nada A. and Elshafei, Moustafa},
+  booktitle={2025 42nd National Radio Science Conference (NRSC)}, 
+  title={Speech Emotion Recognition: Leveraging LSTM and Change Point Detection for Continuous Emotion Detection}, 
+  year={2025},
+  volume={1},
+  number={},
+  pages={166-175},
+  keywords={Human computer interaction;Deep learning;Emotion recognition;Accuracy;Databases;Speech recognition;Mental health;Motion capture;Long short term memory;Monitoring;Speech Emotion Recognition;Long Short-Term Memory;Change Point Detection;Continuous Emotion Detection},
+  doi={10.1109/NRSC65659.2025.11018570}
+}
+
+```
 ## 📜 License
 
 MIT License
